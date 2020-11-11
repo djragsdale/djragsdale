@@ -5,6 +5,7 @@ While I sometimes create tiny open source npm packages to make my life easier or
 #### Current projects
 
 - [JS Design Patterns](https://github.com/djragsdale/design-patterns)
+- [Intent Manager](https://github.com/wilderbeest/intent-manager)
 
 #### Proud projects
 
