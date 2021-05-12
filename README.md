@@ -4,13 +4,15 @@ While I sometimes create tiny open source npm packages to make my life easier or
 
 #### Current projects
 
-- [JS Design Patterns](https://github.com/djragsdale/design-patterns)
-- [Intent Manager](https://github.com/wilderbeest/intent-manager)
+- [Assert Headers Python](https://github.com/djragsdale/assert-headers-python)
 
 #### Proud projects
 
+- [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
 - [BoardGameSidekick](https://github.com/djragsdale/board-game-sidekick)
 - [EJS Prerender](https://github.com/djragsdale/ejs-prerender)
+- [Intent Manager](https://github.com/wilderbeest/intent-manager)
+- [JS Design Patterns](https://github.com/djragsdale/design-patterns)
 - [SHIP Programming Language](https://github.com/djragsdale/ship)
 - [Simple Alexa Skill](https://github.com/djragsdale/simple-alexa-skill)
 - [Simple Slackbot](https://github.com/djragsdale/simple-slackbot)
@@ -19,6 +21,7 @@ While I sometimes create tiny open source npm packages to make my life easier or
 #### Just for fun
 
 - [Ascii Art Webpack Plugin](https://github.com/djragsdale/ascii-art-webpack-plugin)
+- [Count Slowly](https://github.com/wilderbeest/count-slowly)
 - [lolcolor](https://github.com/djragsdale/lolcolor)
 
 <!--
