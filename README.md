@@ -4,11 +4,11 @@ While I sometimes create tiny open source npm packages to make my life easier or
 
 #### Current projects
 
+- [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
 - [Assert Headers Python](https://github.com/djragsdale/assert-headers-python)
 
 #### Proud projects
 
-- [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
 - [BoardGameSidekick](https://github.com/djragsdale/board-game-sidekick)
 - [EJS Prerender](https://github.com/djragsdale/ejs-prerender)
 - [Intent Manager](https://github.com/wilderbeest/intent-manager)
