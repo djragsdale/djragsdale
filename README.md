@@ -4,12 +4,15 @@ While I sometimes create tiny open source npm packages to make my life easier or
 
 #### Current projects
 
-- [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
-- [Assert Headers Python](https://github.com/djragsdale/assert-headers-python)
+- [Smoke Client](https://github.com/smoke-app/SmokeClient)
+- [Smoke Server](https://github.com/smoke-app/SmokeServer)
 
 #### Proud projects
 
+- [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
+- [Assert Headers Python](https://github.com/djragsdale/assert-headers-python)
 - [BoardGameSidekick](https://github.com/djragsdale/board-game-sidekick)
+- [CrumbMaster](https://github.com/swcolegrove/crumb-master)
 - [EJS Prerender](https://github.com/djragsdale/ejs-prerender)
 - [Intent Manager](https://github.com/wilderbeest/intent-manager)
 - [JS Design Patterns](https://github.com/djragsdale/design-patterns)
