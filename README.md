@@ -7,6 +7,11 @@ While I sometimes create tiny open source npm packages to make my life easier or
 - [Smoke Client](https://github.com/smoke-app/SmokeClient)
 - [Smoke Server](https://github.com/smoke-app/SmokeServer)
 
+#### Articles and Blog Posts
+
+- [How Agile Product Owners Should Prioritize User Stories](https://fusionalliance.com/how-agile-product-owners-should-prioritize-user-stories/)
+- [Testable Vanilla JavaScript](https://medium.com/@djragsdale/testable-vanilla-javascript-cbc8b2f54d3)
+
 #### Proud projects
 
 - [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
