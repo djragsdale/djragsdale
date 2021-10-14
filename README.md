@@ -4,6 +4,7 @@ While I sometimes create tiny open source npm packages to make my life easier or
 
 #### Current projects
 
+- Aptiv Connected Services UIs
 - [Smoke Client](https://github.com/smoke-app/SmokeClient)
 - [Smoke Server](https://github.com/smoke-app/SmokeServer)
 
