@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-While I sometimes create tiny open source npm packages to make my life easier or just to have fun, I'm primarily a software architect and Node.js application developer. Applying best practices, upgrading for security vulnerabilities, and keeping long-term maintenance in mind is the name of the game.
+While I sometimes create tiny open source npm packages to make my life easier or just to have fun, I'm primarily a software architect and application developer. Applying best practices, balancing tradeoffs, and keeping long-term maintenance in mind is the name of the game.
 
 #### Current projects
 
-- Aptiv Connected Services UIs
-- [Smoke Client](https://github.com/smoke-app/SmokeClient)
-- [Smoke Server](https://github.com/smoke-app/SmokeServer)
+- Aptiv Connected Services APIs and UIs
 
 #### Articles and Blog Posts
 
@@ -17,14 +15,10 @@ While I sometimes create tiny open source npm packages to make my life easier or
 
 - [Assert Headers Node](https://github.com/djragsdale/assert-headers-node)
 - [Assert Headers Python](https://github.com/djragsdale/assert-headers-python)
-- [BoardGameSidekick](https://github.com/djragsdale/board-game-sidekick)
 - [CrumbMaster](https://github.com/swcolegrove/crumb-master)
 - [EJS Prerender](https://github.com/djragsdale/ejs-prerender)
-- [Intent Manager](https://github.com/wilderbeest/intent-manager)
 - [JS Design Patterns](https://github.com/djragsdale/design-patterns)
 - [SHIP Programming Language](https://github.com/djragsdale/ship)
-- [Simple Alexa Skill](https://github.com/djragsdale/simple-alexa-skill)
-- [Simple Slackbot](https://github.com/djragsdale/simple-slackbot)
 - [Testable JS](https://github.com/djragsdale/testable-js-talk)
 
 #### Just for fun
