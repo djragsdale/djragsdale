@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-While I sometimes create tiny open source npm packages to make my life easier or just to have fun, I'm primarily a software architect and application developer. Applying best practices, balancing tradeoffs, and keeping long-term maintenance in mind is the name of the game.
+While I sometimes create tiny open source npm packages to make my life easier or just to have fun, I'm primarily a team lead, software architect, and application developer. Applying best practices, balancing tradeoffs, and keeping long-term maintenance in mind is the name of the game.
 
 #### Current projects
 
